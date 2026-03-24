@@ -1,0 +1,15 @@
+body {
+    font-family: Arial;
+    background:#020617;
+    color:white;
+    text-align:center;
+}
+
+header {
+    padding:40px;
+    background:#3b82f6;
+}
+
+section {
+    padding:40px;
+}
